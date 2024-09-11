@@ -6,3 +6,11 @@ let str2 = 'Sahil V';
 
 str.length;
 str2.length;
+
+console.log(str[0]);
+
+//template litrals
+//template literals are used to create strings with embedded expressions
+let sentence = `this is a template literals`;
+console.log(typeof sentence);
+
