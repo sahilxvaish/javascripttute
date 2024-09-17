@@ -113,3 +113,13 @@ while (userNum != gameNum) {
 }
 
 console.log("congratulations, you entered the right number!");
+
+//forEach loop 
+//forEach loop is used to iterate over arrays.
+
+let arr = [1, 2, 3, 4,];
+
+arr.forEach(function printVal(val){
+    console.log(val);
+    
+})
